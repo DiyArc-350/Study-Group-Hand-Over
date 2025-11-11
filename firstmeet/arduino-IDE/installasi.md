@@ -10,9 +10,9 @@ Dokumen ini menjelaskan langkah-langkah instalasi, setup board, serta uji coba a
 
 1. Buka **File → Preferences**.  
 2. Pada kolom **Additional Boards Manager URLs**, tambahkan URL berikut:
-<https://dl.espressif.com/dl/package_esp32_index.json>
-,
-<https://arduino.esp8266.com/stable/package_esp8266com_index.json>
+    - <https://dl.espressif.com/dl/package_esp32_index.json>
+
+    - <https://arduino.esp8266.com/stable/package_esp8266com_index.json>
 ![alt text](images/image-2.png)
 
 ## 3. Mengatur Board dan Port
@@ -49,4 +49,5 @@ Buka **Sketch → Include Library → Manage Libraries...**, lalu cari dan insta
 >![alt text](images/image-3.png)
 <br>
 <br>
+
 >![alt text](images/image-4.png)
