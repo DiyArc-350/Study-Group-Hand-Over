@@ -1,4 +1,4 @@
-# 🧠 STUDY GROUP HAND-OVER
+# STUDY GROUP HAND-OVER
 
 Repositori ini berisi seluruh materi, panduan, dan contoh kode yang digunakan selama kegiatan **Study Group IoT**.
 
