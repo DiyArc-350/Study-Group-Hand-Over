@@ -10,6 +10,7 @@ Repositori ini berisi seluruh materi, panduan, dan contoh kode yang digunakan se
 | [🧰 installasi Arduino IDE](./firstmeet/arduino-IDE/installasi.md) | Panduan instalasi Arduino IDE |
 | [🧯 troubleshoot](./firstmeet/troubleshoot/README.md) | Solusi masalah umum |
 | [💻 tips & trik IoT](./source-code/tips_n_trik/README.md) | Tips ngoding IoT dan contoh kode |
+| [👾 contoh kode sederhana](./source-code/) | Contoh kode sederhana IoT |
 
 ---
 
